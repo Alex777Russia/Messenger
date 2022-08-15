@@ -22,6 +22,7 @@
 		F54232E128A6A67C00C10E43 /* NewConversationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54232E028A6A67C00C10E43 /* NewConversationViewController.swift */; };
 		F54232E328A6A69400C10E43 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54232E228A6A69400C10E43 /* ProfileViewController.swift */; };
 		F54232E728A6B13C00C10E43 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54232E628A6B13C00C10E43 /* Extensions.swift */; };
+		F5BF20CC28A912B00003459C /* DatabaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5BF20CB28A912B00003459C /* DatabaseManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		F54232E028A6A67C00C10E43 /* NewConversationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewConversationViewController.swift; sourceTree = "<group>"; };
 		F54232E228A6A69400C10E43 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		F54232E628A6B13C00C10E43 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		F5BF20CB28A912B00003459C /* DatabaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				F54232BD28A6A26F00C10E43 /* AppDelegate.swift */,
 				F54232BF28A6A26F00C10E43 /* SceneDelegate.swift */,
 				F54232E628A6B13C00C10E43 /* Extensions.swift */,
+				F5BF20CB28A912B00003459C /* DatabaseManager.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F54232D928A6A5D500C10E43 /* LoginViewController.swift in Sources */,
+				F5BF20CC28A912B00003459C /* DatabaseManager.swift in Sources */,
 				F54232DB28A6A5FD00C10E43 /* RegisterViewController.swift in Sources */,
 				F54232E128A6A67C00C10E43 /* NewConversationViewController.swift in Sources */,
 				F54232C228A6A26F00C10E43 /* ConversationsViewController.swift in Sources */,
